@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ass-app/static/css/main.e38acdae.css",
+    "main.js": "/ass-app/static/js/main.5bceea03.js",
+    "static/media/airjordan2.png": "/ass-app/static/media/airjordan2.ee8a77a7befea17b7eea.png",
+    "static/media/text1.png": "/ass-app/static/media/text1.ef39404e1c473d923166.png",
+    "static/media/air2.jpg": "/ass-app/static/media/air2.88b91d36bae679a1b1e5.jpg",
+    "static/media/text2.png": "/ass-app/static/media/text2.4533c7b99923e69bc476.png",
+    "static/media/text3.png": "/ass-app/static/media/text3.d447c053dc7be50bdef7.png",
+    "static/media/air3.jpg": "/ass-app/static/media/air3.0a8748a0ad416256d9f4.jpg",
+    "static/media/logo.png": "/ass-app/static/media/logo.4d4daa48521b2f4191b0.png",
+    "static/media/air1.jpg": "/ass-app/static/media/air1.fed8ecf124486b259ec8.jpg",
+    "static/media/news4.jpg": "/ass-app/static/media/news4.ed221999382bc4a82825.jpg",
+    "static/media/news2.jpg": "/ass-app/static/media/news2.806bb1068c61f0ce1ef6.jpg",
+    "static/media/news3.jpg": "/ass-app/static/media/news3.b6a515393b8553a4e98b.jpg",
+    "index.html": "/ass-app/index.html",
+    "main.e38acdae.css.map": "/ass-app/static/css/main.e38acdae.css.map",
+    "main.5bceea03.js.map": "/ass-app/static/js/main.5bceea03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e38acdae.css",
+    "static/js/main.5bceea03.js"
+  ]
+}
